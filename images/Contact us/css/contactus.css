@@ -1,0 +1,24 @@
+/* body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: #628395;
+}
+
+#particles-js{
+
+    height: 100%;
+
+} */
+
+canvas {
+    display:block;
+    background: rgb(64,34,24);
+    background: linear-gradient(135deg, rgba(64,34,24,1) 0%, rgba(134,84,57,1) 19%, rgba(198,139,89,1) 59%, rgba(215,177,157,1) 98%, rgba(255,255,255,1) 100%);
+    position: fixed;
+    z-index: -1;
+}
+.card{
+    position: absolute;
+    width: 60%;
+}
